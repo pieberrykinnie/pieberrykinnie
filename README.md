@@ -1,7 +1,6 @@
 i code and stuff
 
-<div class="tenor-gif-embed" data-postid="18195628014396754889" data-share-method="host" data-aspect-ratio="0.855422" data-width="100%"><a href="https://tenor.com/view/pieberry-witchspring-r-pie-strawberry-witch-gif-18195628014396754889">Pieberry Witchspring R GIF</a>from <a href="https://tenor.com/search/pieberry-gifs">Pieberry GIFs</a></div>
-<script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<img src="./pieberry-witchspring-r.gif" alt="Pieberry looking at pie">
 
 ## About me
 
