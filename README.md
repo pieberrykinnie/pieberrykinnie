@@ -11,11 +11,11 @@ Hi! I'm Peter, a second year Computer Science Honours student at the University 
 Right now, I'm currently:
 
 - 📚 Taking a full courseload:
-+ COMP 2080 - Analysis of Algorithms
-+ MATH 2740 - Mathematics of Data Science
-+ MATH 4920 - Undergraduate Research Projects
-+ FILM 2440 - Filmmaking
-+ FILM 3250 - Cinema Soundscapes, Voices, Music, and Ambience
+    - COMP 2080 - Analysis of Algorithms
+    - MATH 2740 - Mathematics of Data Science
+    - MATH 4920 - Undergraduate Research Projects
+    - FILM 2440 - Filmmaking
+    - FILM 3250 - Cinema Soundscapes, Voices, Music, and Ambience
 - 🎓 Assitive teaching and grading the introductory CS courses COMP 1010 and COMP 1012
 - 📝 Writing a paper on my research done under the VPRI URA with the [Geometric, Approximation and Distributed Algorithms Lab](https://home.cs.umanitoba.ca/~gada/)
 - 🔬 Researching (again!) with the [Human-Computer Interaction Lab](https://hci.cs.umanitoba.ca/)
