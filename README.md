@@ -21,3 +21,8 @@ Right now, I'm currently:
 - 🔬 Researching (again!) with the [Human-Computer Interaction Lab](https://hci.cs.umanitoba.ca/)
 - 👥 Doing Community involvement and leadership through the [Computer Science Students' Association](https://www.umanitobacssa.ca/) and [Model United Nations](https://www.instagram.com/umanitobamun/)
 - 🌐 Honing my skills in full-stack web development
+
+![](https://raw.githubusercontent.com/pieberrykinnie/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/pieberrykinnie/github-stats-transparent/output/generated/languages.svg)
+
+[Tutorial for GitHub stats](https://github.com/rahul-jha98/github-stats-transparent)
