@@ -16,7 +16,7 @@ Right now, I'm currently:
     - MATH 4920 - Undergraduate Research Projects
     - FILM 2440 - Filmmaking
     - FILM 3250 - Cinema Soundscapes, Voices, Music, and Ambience
-- 🎓 Assitive teaching and grading the introductory CS courses COMP 1010 and COMP 1012
+- 🎓 Assistive teaching and grading the introductory CS courses COMP 1010 and COMP 1012
 - 📝 Writing a paper on my research done under the VPRI URA with the [Geometric, Approximation and Distributed Algorithms Lab](https://home.cs.umanitoba.ca/~gada/)
 - 🔬 Researching (again!) with the [Human-Computer Interaction Lab](https://hci.cs.umanitoba.ca/)
 - 👥 Doing Community involvement and leadership through the [Computer Science Students' Association](https://www.umanitobacssa.ca/) and [Model United Nations](https://www.instagram.com/umanitobamun/)
