@@ -26,6 +26,8 @@ In the Winter 2025 term, I will be:
 - 🌐 Honing my skills in full-stack web development
 - 🤖 Studying computer vision and machine learning applications
 
+<img src="./Frieren_Holding_The_Rust_Programming_Language.png" alt="Frieren Holding The Rust Programming Language">
+
 ![](https://raw.githubusercontent.com/pieberrykinnie/github-stats-transparent/output/generated/overview.svg)
 ![](https://raw.githubusercontent.com/pieberrykinnie/github-stats-transparent/output/generated/languages.svg)
 
