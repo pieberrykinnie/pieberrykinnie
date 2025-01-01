@@ -23,7 +23,7 @@ In the Winter 2025 term, I will be:
     - MATH 1700 - Calculus 2
 - 📝 Writing a paper on my research done under the VPRI URA with the [Geometric, Approximation and Distributed Algorithms Lab](https://home.cs.umanitoba.ca/~gada/)
 - 🔬 Researching (again!) with the [Human-Computer Interaction Lab](https://hci.cs.umanitoba.ca/)
-- 👥 Doing Community involvement and leadership through the [Computer Science Students' Association](https://www.umanitobacssa.ca/) and [Model United Nations](https://www.instagram.com/umanitobamun/)
+- 👥 Doing community involvement and leadership through the [Computer Science Students' Association](https://www.umanitobacssa.ca/) and [Model United Nations](https://www.instagram.com/umanitobamun/)
 - 🌐 Honing my skills in full-stack web development
 - 🤖 Studying computer vision and machine learning applications
 
