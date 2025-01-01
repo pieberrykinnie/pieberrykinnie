@@ -20,6 +20,7 @@ In the Winter 2025 term, I will be:
     - COMP 1012 - Computer Programming for Scientists and Engineers
     - COMP 2080 - Analysis of Algorithms
     - COMP 2600 - Technical Communication in Computer Science
+    - MATH 1700 - Calculus 2
 - 📝 Writing a paper on my research done under the VPRI URA with the [Geometric, Approximation and Distributed Algorithms Lab](https://home.cs.umanitoba.ca/~gada/)
 - 🔬 Researching (again!) with the [Human-Computer Interaction Lab](https://hci.cs.umanitoba.ca/)
 - 👥 Doing Community involvement and leadership through the [Computer Science Students' Association](https://www.umanitobacssa.ca/) and [Model United Nations](https://www.instagram.com/umanitobamun/)
