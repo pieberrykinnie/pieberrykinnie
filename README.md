@@ -6,7 +6,7 @@ i code and stuff
 
 Hi! I'm Peter, a second year Computer Science Honours student at the University of Manitoba. My research interest is Computer Vision, and in that pursuit I'm hoping to learn all there is to learn in the fields of Computer Science, Software Engineering, Data Science, Human-Computer Interaction, and more!
 
-**I'm currently seeking Summer 2025 internships in Hanoi, Vietnam in software development.** Contact me through my email [peter.vu298@gmail.com](mailto:peter.vu298@gmail.com) or Discord @pieberrykinnie if you'd like to connect!
+Contact me through my email [peter.vu298@gmail.com](mailto:peter.vu298@gmail.com) or Discord @pieberrykinnie if you'd like to connect!
 
 In the Winter 2025 term, I will be:
 
