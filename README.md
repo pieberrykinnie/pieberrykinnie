@@ -15,7 +15,7 @@
   Current Developer @ <a href="https://github.com/commitcv/">CommitCV</a>, Researcher @ <a href="https://home.cs.umanitoba.ca/~gada/">GADA</a> & <a href="https://hci.cs.umanitoba.ca/">HCI</a> Labs, Hackathon Winner, CS/Math Teaching Assistant.
   <br />
   <br />
-  <strong>🔭 I am actively looking for Summer 2026 co-op employment opportunities based in Canada!</strong>
+  <strong>🔭 I am actively looking for Fall 2026 co-op employment opportunities based in Canada!</strong>
   
   <a href="https://linkedin.com/in/petervu298">
     <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)" />
