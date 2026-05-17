@@ -27,9 +27,9 @@ i code sometimes
 * Favorite hackathon stack: Next.js (TypeScript) + FastAPI + Supabase + Groq
 * Most interdisciplinary Computer Science student (as you can see above), currently digging into computer graphics and embedded programming
 * Probably will build an EdTech startup
+* Cat person
 
 ![](./Frieren_Holding_The_Rust_Programming_Language.png)
 
-## GitHub Stats
-
-TBA
+<img src="https://raw.githubusercontent.com/pieberrykinnie/github-stats-transparent/output/generated/overview.svg" alt="GitHub Stats overview" />
+<img src="https://raw.githubusercontent.com/pieberrykinnie/github-stats-transparent/output/generated/languages.svg" alt="GitHub Stats languages" />
