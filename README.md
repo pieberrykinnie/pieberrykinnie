@@ -1,6 +1,6 @@
 i code sometimes
 
-**Looking for tech internship/co-op placements Fall 2026 and Summer 2027!**
+**Looking for tech internship/co-op placements Summer 2027!**
 
 ## Highlights
 
