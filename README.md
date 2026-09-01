@@ -5,7 +5,7 @@ i code sometimes
 ## Highlights
 
 * **President's Scholar** & Computer Science Honours (Co-op) @ [University of Manitoba](https://umanitoba.ca/), double minoring in **Mathematics** and **Film Studies**
-* Ex-**IT Intern** @ [KGS Group](https://www.kgsgroup.com/), took the firm's on-premise RAG system from concepts to production vendoring LibreChat, Qdrant, vLLM, and building custom services with FastAPI, ASP.NET, Grafana k6 to integrate with existing Synology NAS and LDAP server
+* Ex-**IT Intern** (System Development Team) @ [KGS Group](https://www.kgsgroup.com/), took the firm's on-premise RAG system from concepts to production vendoring LibreChat, Qdrant, vLLM, and building custom services with FastAPI, ASP.NET, Grafana k6 to integrate with existing Synology NAS and LDAP server
 * Ex-**AI Engineer Intern** @ [PIXTA Vietnam](https://pixta.vn/), done R&D on AI projects using PyTorch, HuggingFace, Milvus, ClearML
 * **Best Paper Award** @ [Western Canada Conference on Computing Education 2026](https://event.fourwaves.com/wccce2026) for [Trinket Exercises for In-Class Active Learning in Intro Programming Classes](https://hci.cs.umanitoba.ca/Publications/details/trinket-exercises-for-in-class-active-learning-in-intro-programming-classes) — _Devon Blewett, Lara De Leon, **Peter Vu**, Celine Latulipe_
 * Ex-**Undergraduate Research Awards Holder** @ [Geometric, Approximation & Distributed Algorithms Lab](https://home.cs.umanitoba.ca/~gada/), currently first authoring a paper on graph theory pursuit-evasion problems
