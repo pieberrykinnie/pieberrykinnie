@@ -23,7 +23,7 @@ i code sometimes
 
 ## Other Stuff
 
-* Find me on [LinkedIn](https://www.linkedin.com/in/petervu298/)
+* Find me on [LinkedIn](https://www.linkedin.com/in/petervudev/)
 * Favorite hackathon stack: Next.js (TypeScript) + FastAPI + Supabase + Groq
 * Most interdisciplinary Computer Science student (as you can see above), currently digging into computer graphics and embedded programming
 * Probably will build an EdTech startup
