@@ -5,6 +5,7 @@ i code sometimes
 ## Highlights
 
 * **President's Scholar** & Computer Science Honours (Co-op) @ [University of Manitoba](https://umanitoba.ca/), double minoring in **Mathematics** and **Film Studies**
+* Software Developer, Co-op (Professional Services, Gig Team) @ [iQmetrix](https://www.iqmetrix.com/), building and maintaining .NET Core integration services with mobile provider vendors using Visual Studio, using Honeycomb for observability, configuring Azure Pipelines for Flagger for GitOps, deploying to Kubernetes clusters for Blue / Green and Canary deployments, integrating with the Azure ecosystem
 * Ex-**IT Intern** (System Development Team) @ [KGS Group](https://www.kgsgroup.com/), took the firm's on-premise RAG system from concepts to production vendoring LibreChat, Qdrant, vLLM, and building custom services with FastAPI, ASP.NET, Grafana k6 to integrate with existing Synology NAS and LDAP server
 * Ex-**AI Engineer Intern** @ [PIXTA Vietnam](https://pixta.vn/), done R&D on AI projects using PyTorch, HuggingFace, Milvus, ClearML
 * **Best Paper Award** @ [Western Canada Conference on Computing Education 2026](https://event.fourwaves.com/wccce2026) for [Trinket Exercises for In-Class Active Learning in Intro Programming Classes](https://hci.cs.umanitoba.ca/Publications/details/trinket-exercises-for-in-class-active-learning-in-intro-programming-classes) — _Devon Blewett, Lara De Leon, **Peter Vu**, Celine Latulipe_
