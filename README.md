@@ -4,14 +4,16 @@ i code sometimes
 
 ## Highlights
 
+* ‼️**NEW**‼️ 3rd Place @ [2026 ICPC North America North Central Regional Contest](https://ncna26.kattis.com/contests/ncna26/standings), advancing to North American Championship for the first time in University of Manitoba's history
 * **President's Scholar** & Computer Science Honours (Co-op) @ [University of Manitoba](https://umanitoba.ca/), double minoring in **Mathematics** and **Film Studies**
-* Software Developer, Co-op (Professional Services, Gig Team) @ [iQmetrix](https://www.iqmetrix.com/), building and maintaining .NET Core integration services with mobile provider vendors using Visual Studio, using Honeycomb for observability, configuring Azure Pipelines for Flagger for GitOps, deploying to Kubernetes clusters for Blue / Green and Canary deployments, integrating with the Azure ecosystem
+* Software Developer, Co-op (Professional Services, Gig Team) @ [iQmetrix](https://www.iqmetrix.com/), building and maintaining .NET Core integration services with mobile provider vendors using Visual Studio, using Honeycomb for observability, configuring Azure Pipelines for Flagger for GitOps, deploying to Kubernetes clusters for Blue / Green and Canary deployments, integrating with the Azure ecosystem, some TypeScript + Flutter development
 * Ex-**IT Intern** (System Development Team) @ [KGS Group](https://www.kgsgroup.com/), took the firm's on-premise RAG system from concepts to production vendoring LibreChat, Qdrant, vLLM, and building custom services with FastAPI, ASP.NET, Grafana k6 to integrate with existing Synology NAS and LDAP server
 * Ex-**AI Engineer Intern** @ [PIXTA Vietnam](https://pixta.vn/), done R&D on AI projects using PyTorch, HuggingFace, Milvus, ClearML
 * **Best Paper Award** @ [Western Canada Conference on Computing Education 2026](https://event.fourwaves.com/wccce2026) for [Trinket Exercises for In-Class Active Learning in Intro Programming Classes](https://hci.cs.umanitoba.ca/Publications/details/trinket-exercises-for-in-class-active-learning-in-intro-programming-classes) — _Devon Blewett, Lara De Leon, **Peter Vu**, Celine Latulipe_
 * Ex-**Undergraduate Research Awards Holder** @ [Geometric, Approximation & Distributed Algorithms Lab](https://home.cs.umanitoba.ca/~gada/), currently first authoring a paper on graph theory pursuit-evasion problems
 * **6x Hackathon Winner** (Best Cybersecurity Hack @ [.devHacks 2025](https://devclub.ca/devhacks/2025), Most Impactful Hack @ [UWinnipeg Hacks](https://uwinnipeg-hacks.devpost.com/), Smart Vaccine Reminder & Eligibility System @ [.devHacks 2026](https://devclub.ca/devhacks/2026), Winner @ [Talent Tank](https://luma.com/mghatszr), 1st Place @ [2026 Winnipeg Open Data Datathon](https://www.meetup.com/winnipeg-open-data-meet-up-group/events/312886562/), 1st Place @ [AccelR8 Prairie AI Hackathon 2026](https://www.accelr8.ca/event-details/accelr8-prairie-ai-hackathon-2026))
-* **2x Capture The Flag Winner** ([The Long Con 2025](https://thelongcon.ca/), [CSSA Capture The Flag 2026](https://umanitobacssa.ca/events/capture-the-flag-2026))
+* **1st in Canada** @ [IEEEXtreme 20.0](https://ieeextreme.org/), 24-hour competitive programming challenge
+* **3x Capture The Flag Winner** ([The Long Con 2025](https://thelongcon.ca/), [CSSA Capture The Flag 2026](https://umanitobacssa.ca/events/capture-the-flag-2026), [The Long Con 2026](https://thelongcon2026.coryallegory.com/))
 * **1x Game Jam Winner** ([CSSA Game Jam 2025](https://umanitobacssa.ca/events/game-jam-2025))
 * **1st Place** @ [University of Manitoba Math Bee 2025](https://sites.google.com/view/umgradmathsociety/ummb/past-competitions), Canada's top-scoring team @ [Jerry Heuer Mathematics Team Contest](https://www.northcentral.maa.org/teamcontest) (2023, 2025)
 * ~2 years of teaching, grading and tutoring experience across Computer Science and Mathematics
@@ -25,9 +27,7 @@ i code sometimes
 ## Other Stuff
 
 * Find me on [LinkedIn](https://www.linkedin.com/in/petervudev/)
-* Favorite hackathon stack: Next.js (TypeScript) + FastAPI + Supabase + Groq
-* Most interdisciplinary Computer Science student (as you can see above), currently digging into computer graphics and embedded programming
-* Probably will build an EdTech startup
+* Aspiring startup founder
 * Cat person
 
 ![](./Frieren_Holding_The_Rust_Programming_Language.png)
